@@ -1,0 +1,11 @@
+{
+  "name": "apiloader",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "",
+  "licencse": "MIT",
+  "author": "Markus Gilg",
+  "dependencies": {
+    "express": "4.14.0"
+  }
+}
