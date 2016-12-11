@@ -1,6 +1,9 @@
 {
   "name": "express-dynamic-api",
   "version": "1.0.0",
+  "repository": {
+    "url": "https://github.com/nodejayes/express-dynamic-api.git"
+  },
   "main": "index.js",
   "description": "",
   "licencse": "MIT",
