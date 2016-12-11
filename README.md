@@ -25,12 +25,12 @@ app.listen(3030, "localhost", function (err) {
 
 ### 1. The Configuration
 
-At First the config.json was loaded. They must contains the Keys for the Routepath (routepath) and Api Name (routeapiname).
+At First the config.json was loaded. They must contains the Keys for the Routepath (routepath) and Api Name (routealias).
 
 ```
 {
   "routepath": "routes",
-  "routeapiname": "api"
+  "routealias": "api"
 }
 ```
 
